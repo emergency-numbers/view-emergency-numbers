@@ -1,0 +1,13 @@
+{
+  "name": "view-emergency-numbers",
+  "version": "0.0.1",
+  "description": "Listview of emergency numbers",
+  "repository": "git://github.com/emergency-numbers/view-emergency-numbers",
+  "license": "MIT",
+  "devDependencies": {
+    "component": "*"
+  },
+  "scripts": {
+    "install": "make"
+  }
+}

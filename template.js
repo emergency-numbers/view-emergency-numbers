@@ -1,0 +1,1 @@
+module.exports = '<li><a href="tel:{number}" alt="{service}">{service}</a></li>\n';

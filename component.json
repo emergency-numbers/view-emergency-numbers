@@ -1,0 +1,21 @@
+{
+  "name": "view-emergency-numbers",
+  "repo": "emergency-numbers/view-emergency-numbers",
+  "description": "Listview of emergency numbers",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "segmentio/list": "*",
+    "segmentio/view": "*"
+  },
+  "development": {
+    "component/assert": "*",
+    "visionmedia/mocha": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "template.js"
+  ]
+}
